@@ -6,7 +6,7 @@ The significance of data is highly valuable to both internal and external custom
 
 In terms of external customer, I have undertaken the following projects with the objective of improving the quality of service that can be provided.
 
-## Project 1 - Customers Feedback on Overseas Online Shopping
+## Project 1 - Customer Reviews of Overseas Online Shopping
 * About :\
 The first project I proceeded started with a question of what factor affects the customers' satisfaction the most when they are shopping online overseas. In Korea, there has been a sharp increase in the market size of Cross-Border E-commerce, which naturally led to an escalation of complaints received by Korea Consumer Agency. As the clothing was the product that the customer found the inconvenience the most, I conducted EDA of customers comments on men's T-shirt with a hypothesis that the difference of size caused the inconvenience.
 
