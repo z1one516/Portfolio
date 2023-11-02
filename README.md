@@ -18,9 +18,7 @@ https://amazon.11st.co.kr/amazon/category?dispCtgr3No=1150107
 Size-mentioned negative comments were 1.8 times as many than positive comments and delivery-mentioned positive comments were twice as many than negative comments.
 
 * Feedbacks :\
-Some of women's clothing was mixed in the product list. If the data is preprocessed more thoroughly, the accuracy of the review will be higher.
-
-Regarding the review data, it is frequently observed to be highly imbalanced between positive and negative reviews. This could be taken into the consideration for the next project.
+Some of women's clothing was mixed in the product list. If the data is preprocessed more thoroughly, the accuracy of the review will be higher. Regarding the review data, it is frequently observed to be highly imbalanced between positive and negative reviews. This could be taken into the consideration for the next project.
 
 * What I learned :\
 Going through the pre step of data analysis, I found that data analysis needs to have a purpose that gives an insight to improve the status or solve the problem. Additionally, as I used NLTK and Sentiment Dictionary to deal with language data, I found that it is important to try new skills that I have not tried.
