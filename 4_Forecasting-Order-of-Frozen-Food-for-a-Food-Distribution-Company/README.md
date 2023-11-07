@@ -1,16 +1,10 @@
 # Forecasting Order of Frozen Food for Food Distribution Company
 
 ```bash
-├── WEB CRAWLING
-|   ├── STEAM CRAWLING
-|   ├── STEAM CHART CRAWLING
-|   ├── STEAM SPY CRAWLING
-|   └── CRAWLING DATA
-└── EXPLORATORY DATA ANALYSIS
-    ├── DATA CORREALATION
-    ├── DATA OUTLIER
-    ├── CATEGORICAL VARIABLE PREPROCESSING
-    └── VISUALIZATION
+├── EDA
+├── TIME SERIES MODEL
+├── TRAINING
+└── ENSEMBLE
 ```
 
 ## About :
