@@ -1,0 +1,3744 @@
+{
+    "1118200": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 201609,
+        "achievements": 17,
+        "release_date": "23 Jul, 2019"
+    },
+    "646570": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": 89,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 119767,
+        "achievements": 46,
+        "release_date": "23 Jan, 2019"
+    },
+    "1055540": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": 82,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 12193,
+        "achievements": 12,
+        "release_date": "30 Jul, 2019"
+    },
+    "460950": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": 83,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 53209,
+        "achievements": 22,
+        "release_date": "18 Apr, 2019"
+    },
+    "883710": {
+        "required_age": "18",
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 13,
+        "metacritic": 89,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 95455,
+        "achievements": 44,
+        "release_date": "24 Jan, 2019"
+    },
+    "1170880": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "30 Oct, 2019"
+    },
+    "736260": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": 87,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 15931,
+        "achievements": 18,
+        "release_date": "13 Mar, 2019"
+    },
+    "787480": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 4,
+        "metacritic": 80,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 18787,
+        "achievements": 30,
+        "release_date": "9 Apr, 2019"
+    },
+    "457140": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 2,
+        "metacritic": 86,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 98808,
+        "achievements": 45,
+        "release_date": "30 Jul, 2019"
+    },
+    "1070710": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 7002,
+        "achievements": NaN,
+        "release_date": "12 Sep, 2019"
+    },
+    "1093910": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 10173,
+        "achievements": 15,
+        "release_date": "25 Sep, 2019"
+    },
+    "851100": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 11637,
+        "achievements": 22,
+        "release_date": "25 Feb, 2019"
+    },
+    "1067310": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 20,
+        "release_date": "23 Aug, 2019"
+    },
+    "942970": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 3,
+        "metacritic": 72,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 26073,
+        "achievements": 12,
+        "release_date": "28 Mar, 2019"
+    },
+    "620980": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 173,
+        "metacritic": 93,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 64033,
+        "achievements": 26,
+        "release_date": "21 May, 2019"
+    },
+    "1044620": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 7,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 3581,
+        "achievements": 22,
+        "release_date": "27 Sep, 2019"
+    },
+    "814380": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": 88,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 182178,
+        "achievements": 34,
+        "release_date": "21 Mar, 2019"
+    },
+    "601150": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 32,
+        "metacritic": 89,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 72597,
+        "achievements": 55,
+        "release_date": "7 Mar, 2019"
+    },
+    "601220": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 7456,
+        "achievements": 640,
+        "release_date": "11 Dec, 2019"
+    },
+    "1067850": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 3603,
+        "achievements": 24,
+        "release_date": "29 Jul, 2019"
+    },
+    "512900": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 3,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 14213,
+        "achievements": 52,
+        "release_date": "12 Jul, 2019"
+    },
+    "926990": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 4,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 5734,
+        "achievements": 88,
+        "release_date": "25 Jul, 2019"
+    },
+    "1122720": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 6779,
+        "achievements": 24,
+        "release_date": "12 Dec, 2019"
+    },
+    "1082710": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": 86,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 3859,
+        "achievements": 30,
+        "release_date": "21 Nov, 2019"
+    },
+    "557340": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": 81,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 22640,
+        "achievements": 30,
+        "release_date": "20 Jun, 2019"
+    },
+    "732690": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 9822,
+        "achievements": 15,
+        "release_date": "28 May, 2019"
+    },
+    "812810": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": NaN,
+        "achievements": 4,
+        "release_date": "30 May, 2019"
+    },
+    "1122750": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 14,
+        "release_date": "2 Aug, 2019"
+    },
+    "813780": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 7,
+        "metacritic": 84,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 116468,
+        "achievements": 255,
+        "release_date": "14 Nov, 2019"
+    },
+    "1127400": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 13840,
+        "achievements": 88,
+        "release_date": "26 Sep, 2019"
+    },
+    "943700": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "19 Jun, 2019"
+    },
+    "1160490": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 6,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 2496,
+        "achievements": 12,
+        "release_date": "11 Nov, 2019"
+    },
+    "992310": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "24 Apr, 2019"
+    },
+    "1069230": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 2442,
+        "achievements": 14,
+        "release_date": "26 Jul, 2019"
+    },
+    "1147690": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 61,
+        "release_date": "1 Oct, 2019"
+    },
+    "858210": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 9269,
+        "achievements": 40,
+        "release_date": "27 Mar, 2019"
+    },
+    "844590": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": 83,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 3164,
+        "achievements": 14,
+        "release_date": "12 Mar, 2019"
+    },
+    "774171": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 93520,
+        "achievements": 39,
+        "release_date": "19 Jun, 2019"
+    },
+    "1038740": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 2997,
+        "achievements": 13,
+        "release_date": "14 Aug, 2019"
+    },
+    "944020": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 2541,
+        "achievements": 11,
+        "release_date": "22 Jul, 2019"
+    },
+    "1031480": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1981,
+        "achievements": 28,
+        "release_date": "18 Mar, 2019"
+    },
+    "1064610": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": "full",
+        "dlc": 2,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 669,
+        "achievements": 27,
+        "release_date": "3 May, 2019"
+    },
+    "980300": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": 83,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 3442,
+        "achievements": 63,
+        "release_date": "15 Apr, 2019"
+    },
+    "1103210": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "9 Jul, 2019"
+    },
+    "1045520": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 4762,
+        "achievements": 19,
+        "release_date": "25 Jul, 2019"
+    },
+    "611760": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 1348,
+        "achievements": 25,
+        "release_date": "11 Mar, 2019"
+    },
+    "986800": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 2,
+        "metacritic": 79,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1821,
+        "achievements": 24,
+        "release_date": "10 Dec, 2019"
+    },
+    "692850": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 2,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 25279,
+        "achievements": 45,
+        "release_date": "18 Jun, 2019"
+    },
+    "1198320": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "23 Dec, 2019"
+    },
+    "927380": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": 82,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 9964,
+        "achievements": 59,
+        "release_date": "9 May, 2019"
+    },
+    "314650": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 12,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 8361,
+        "achievements": NaN,
+        "release_date": "11 Jun, 2019"
+    },
+    "1033420": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1051,
+        "achievements": NaN,
+        "release_date": "16 Aug, 2019"
+    },
+    "1046030": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": 82,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 14470,
+        "achievements": 38,
+        "release_date": "4 Apr, 2019"
+    },
+    "813630": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": 85,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 8641,
+        "achievements": 98,
+        "release_date": "5 Apr, 2019"
+    },
+    "572890": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": 74,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 6466,
+        "achievements": 14,
+        "release_date": "24 Jan, 2019"
+    },
+    "598980": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 4429,
+        "achievements": 27,
+        "release_date": "22 Feb, 2019"
+    },
+    "914710": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": 76,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 3600,
+        "achievements": 9,
+        "release_date": "24 Sep, 2019"
+    },
+    "1058020": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 3389,
+        "achievements": NaN,
+        "release_date": "1 May, 2019"
+    },
+    "621000": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1533,
+        "achievements": 20,
+        "release_date": "4 Jul, 2019"
+    },
+    "1010750": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": 77,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 4984,
+        "achievements": 20,
+        "release_date": "9 May, 2019"
+    },
+    "1018850": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 2,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 1625,
+        "achievements": 24,
+        "release_date": "31 May, 2019"
+    },
+    "937580": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1030,
+        "achievements": NaN,
+        "release_date": "1 Apr, 2019"
+    },
+    "621060": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 11,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 38939,
+        "achievements": 94,
+        "release_date": "29 Jan, 2019"
+    },
+    "977950": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 3,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 54175,
+        "achievements": 47,
+        "release_date": "24 Jan, 2019"
+    },
+    "996580": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 10472,
+        "achievements": 105,
+        "release_date": "3 Sep, 2019"
+    },
+    "966320": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 1895,
+        "achievements": 14,
+        "release_date": "18 Sep, 2019"
+    },
+    "1058640": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 15,
+        "release_date": "11 Jul, 2019"
+    },
+    "1049280": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": 78,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 3094,
+        "achievements": 45,
+        "release_date": "7 Oct, 2019"
+    },
+    "801480": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 4051,
+        "achievements": 30,
+        "release_date": "29 Aug, 2019"
+    },
+    "913550": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 2360,
+        "achievements": NaN,
+        "release_date": "15 Nov, 2019"
+    },
+    "752590": {
+        "required_age": "17",
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": 81,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 48007,
+        "achievements": 35,
+        "release_date": "14 May, 2019"
+    },
+    "632470": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 2,
+        "metacritic": 97,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 76387,
+        "achievements": 45,
+        "release_date": "15 Oct, 2019"
+    },
+    "900270": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": 84,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 7084,
+        "achievements": 101,
+        "release_date": "4 Jun, 2019"
+    },
+    "597760": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": 81,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 5365,
+        "achievements": 48,
+        "release_date": "25 Apr, 2019"
+    },
+    "673130": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 4,
+        "metacritic": 85,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 5473,
+        "achievements": 43,
+        "release_date": "20 Jun, 2019"
+    },
+    "1007040": {
+        "required_age": "17",
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 20,
+        "metacritic": 76,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 7222,
+        "achievements": 39,
+        "release_date": "11 Jul, 2019"
+    },
+    "681280": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": 78,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 12288,
+        "achievements": 42,
+        "release_date": "7 May, 2019"
+    },
+    "1079160": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 927,
+        "achievements": NaN,
+        "release_date": "9 Sep, 2019"
+    },
+    "1072390": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 22,
+        "release_date": "9 May, 2019"
+    },
+    "965820": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 921,
+        "achievements": 40,
+        "release_date": "17 Jun, 2019"
+    },
+    "1169040": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 8177,
+        "achievements": 27,
+        "release_date": "12 Dec, 2019"
+    },
+    "494150": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 3478,
+        "achievements": NaN,
+        "release_date": "24 Oct, 2019"
+    },
+    "1043340": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1271,
+        "achievements": 52,
+        "release_date": "14 Apr, 2019"
+    },
+    "866440": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": NaN,
+        "achievements": 6,
+        "release_date": "11 Jan, 2019"
+    },
+    "970560": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 912,
+        "achievements": 50,
+        "release_date": "10 Dec, 2019"
+    },
+    "976730": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 6,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 194908,
+        "achievements": 700,
+        "release_date": "3 Dec, 2019"
+    },
+    "1002560": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 3382,
+        "achievements": 9,
+        "release_date": "27 Feb, 2019"
+    },
+    "440310": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1801,
+        "achievements": 5,
+        "release_date": "14 Jun, 2019"
+    },
+    "1200860": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "19 Dec, 2019"
+    },
+    "937170": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 2,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 6491,
+        "achievements": 27,
+        "release_date": "20 May, 2019"
+    },
+    "1071120": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 24,
+        "release_date": "10 Jun, 2019"
+    },
+    "992740": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 325,
+        "achievements": 20,
+        "release_date": "13 Feb, 2019"
+    },
+    "359510": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 3512,
+        "achievements": 10,
+        "release_date": "22 Oct, 2019"
+    },
+    "655500": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 14556,
+        "achievements": NaN,
+        "release_date": "7 Oct, 2019"
+    },
+    "933480": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": 4,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 84,
+        "release_date": "14 Feb, 2019"
+    },
+    "934840": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 28,
+        "release_date": "1 Jan, 2019"
+    },
+    "578620": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": 85,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 7172,
+        "achievements": NaN,
+        "release_date": "18 Jul, 2019"
+    },
+    "1109460": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 7,
+        "release_date": "11 Nov, 2019"
+    },
+    "1012880": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 11231,
+        "achievements": 60,
+        "release_date": "25 Jul, 2019"
+    },
+    "1005300": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": 80,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 1997,
+        "achievements": 20,
+        "release_date": "16 Oct, 2019"
+    },
+    "916730": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": 79,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 3037,
+        "achievements": 12,
+        "release_date": "30 May, 2019"
+    },
+    "1057680": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 2115,
+        "achievements": NaN,
+        "release_date": "30 Apr, 2019"
+    },
+    "1004240": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 3627,
+        "achievements": 100,
+        "release_date": "12 Apr, 2019"
+    },
+    "834530": {
+        "required_age": "17",
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": 80,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 12109,
+        "achievements": 55,
+        "release_date": "19 Feb, 2019"
+    },
+    "1012240": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "13 Feb, 2019"
+    },
+    "1184770": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1505,
+        "achievements": NaN,
+        "release_date": "22 Nov, 2019"
+    },
+    "1010890": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 9,
+        "release_date": "19 Jul, 2019"
+    },
+    "1064730": {
+        "required_age": NaN,
+        "is_free": NaN,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": NaN,
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": NaN
+    },
+    "1092590": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 903,
+        "achievements": 81,
+        "release_date": "26 Sep, 2019"
+    },
+    "1109410": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "9 Oct, 2019"
+    },
+    "1146950": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 3205,
+        "achievements": 100,
+        "release_date": "28 Oct, 2019"
+    },
+    "1098340": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1474,
+        "achievements": 770,
+        "release_date": "24 Jun, 2019"
+    },
+    "666140": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 6,
+        "metacritic": 73,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 31957,
+        "achievements": 91,
+        "release_date": "15 Jan, 2019"
+    },
+    "1048540": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 2343,
+        "achievements": 9,
+        "release_date": "31 May, 2019"
+    },
+    "948830": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 1216,
+        "achievements": 18,
+        "release_date": "21 Mar, 2019"
+    },
+    "930910": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 576,
+        "achievements": 35,
+        "release_date": "19 Feb, 2019"
+    },
+    "1040550": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 696,
+        "achievements": 12,
+        "release_date": "17 Nov, 2019"
+    },
+    "361420": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 95523,
+        "achievements": 56,
+        "release_date": "Feb 5, 2019"
+    },
+    "1046820": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 1394,
+        "achievements": 8,
+        "release_date": "3 Apr, 2019"
+    },
+    "1092720": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "15 Oct, 2019"
+    },
+    "939600": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 2274,
+        "achievements": 26,
+        "release_date": "25 Jul, 2019"
+    },
+    "447150": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": 83,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 2604,
+        "achievements": 23,
+        "release_date": "28 Feb, 2019"
+    },
+    "1070550": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 285,
+        "achievements": 13,
+        "release_date": "29 Jul, 2019"
+    },
+    "741140": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1106,
+        "achievements": 25,
+        "release_date": "20 Dec, 2019"
+    },
+    "1044490": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 571,
+        "achievements": NaN,
+        "release_date": "21 Jun, 2019"
+    },
+    "1047440": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 2299,
+        "achievements": 37,
+        "release_date": "23 Jul, 2019"
+    },
+    "604240": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 8964,
+        "achievements": 73,
+        "release_date": "8 Mar, 2019"
+    },
+    "1080750": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": 80,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 790,
+        "achievements": 20,
+        "release_date": "19 Sep, 2019"
+    },
+    "823500": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": 72,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 32046,
+        "achievements": 16,
+        "release_date": "10 Dec, 2019"
+    },
+    "1026840": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "8 May, 2019"
+    },
+    "382560": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 4484,
+        "achievements": 41,
+        "release_date": "19 Sep, 2019"
+    },
+    "1158470": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": true
+        },
+        "recommendations": 405,
+        "achievements": 37,
+        "release_date": "7 Nov, 2019"
+    },
+    "677620": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": "full",
+        "dlc": 3,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": true
+        },
+        "recommendations": 165,
+        "achievements": 30,
+        "release_date": "24 May, 2019"
+    },
+    "433550": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 2,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 3208,
+        "achievements": 17,
+        "release_date": "15 Aug, 2019"
+    },
+    "588030": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 4396,
+        "achievements": NaN,
+        "release_date": "25 Jan, 2019"
+    },
+    "1073390": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "9 Aug, 2019"
+    },
+    "1037190": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 527,
+        "achievements": 13,
+        "release_date": "28 Mar, 2019"
+    },
+    "710710": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 262,
+        "achievements": 21,
+        "release_date": "6 Sep, 2019"
+    },
+    "1109130": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 6,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 554,
+        "achievements": 100,
+        "release_date": "16 Aug, 2019"
+    },
+    "1043240": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 294,
+        "achievements": NaN,
+        "release_date": "18 Jun, 2019"
+    },
+    "844660": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 3,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 688,
+        "achievements": 12,
+        "release_date": "15 Feb, 2019"
+    },
+    "1047220": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": 81,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 861,
+        "achievements": 6,
+        "release_date": "9 Dec, 2019"
+    },
+    "1056490": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 534,
+        "achievements": NaN,
+        "release_date": "27 Jun, 2019"
+    },
+    "981020": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 330,
+        "achievements": 14,
+        "release_date": "10 Jul, 2019"
+    },
+    "585420": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 8,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 15175,
+        "achievements": 22,
+        "release_date": "18 Sep, 2019"
+    },
+    "1146510": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 314,
+        "achievements": 11,
+        "release_date": "25 Oct, 2019"
+    },
+    "594130": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": 74,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 481,
+        "achievements": 57,
+        "release_date": "21 Aug, 2019"
+    },
+    "954740": {
+        "required_age": "18",
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 2,
+        "metacritic": 60,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 10473,
+        "achievements": 36,
+        "release_date": "14 Nov, 2019"
+    },
+    "805550": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 7,
+        "metacritic": 77,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 18795,
+        "achievements": NaN,
+        "release_date": "29 May, 2019"
+    },
+    "959080": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": NaN,
+        "achievements": 11,
+        "release_date": "15 Jan, 2019"
+    },
+    "952290": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1007,
+        "achievements": 34,
+        "release_date": "6 Aug, 2019"
+    },
+    "622220": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 47,
+        "metacritic": 79,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 3618,
+        "achievements": 44,
+        "release_date": "19 Mar, 2019"
+    },
+    "1069740": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 8331,
+        "achievements": 210,
+        "release_date": "20 Jun, 2019"
+    },
+    "679900": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 3807,
+        "achievements": 39,
+        "release_date": "22 Jul, 2019"
+    },
+    "1058000": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "19 Apr, 2019"
+    },
+    "1084570": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 14,
+        "release_date": "10 Jun, 2019"
+    },
+    "909190": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "14 Feb, 2019"
+    },
+    "489520": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": "full",
+        "dlc": 19,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 1441,
+        "achievements": 38,
+        "release_date": "24 May, 2019"
+    },
+    "1121910": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "24 Sep, 2019"
+    },
+    "1021950": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 32,
+        "release_date": "1 Mar, 2019"
+    },
+    "1079800": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 2,
+        "metacritic": 83,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 3231,
+        "achievements": 25,
+        "release_date": "7 Nov, 2019"
+    },
+    "1098490": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "11 Oct, 2019"
+    },
+    "1036950": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": 128,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 17,
+        "release_date": "4 Apr, 2019"
+    },
+    "572220": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 784,
+        "achievements": 10,
+        "release_date": "10 Oct, 2019"
+    },
+    "1017180": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 23409,
+        "achievements": NaN,
+        "release_date": "25 Sep, 2019"
+    },
+    "505230": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 3,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 6810,
+        "achievements": 50,
+        "release_date": "23 May, 2019"
+    },
+    "1174180": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": 93,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 426694,
+        "achievements": 51,
+        "release_date": "5 Dec, 2019"
+    },
+    "976390": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1074,
+        "achievements": 4,
+        "release_date": "31 Jan, 2019"
+    },
+    "846030": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 5,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 1515,
+        "achievements": 84,
+        "release_date": "21 Jul, 2023"
+    },
+    "968350": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 439,
+        "achievements": 39,
+        "release_date": "31 Dec, 2019"
+    },
+    "1100800": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 214,
+        "achievements": NaN,
+        "release_date": "12 Aug, 2019"
+    },
+    "970570": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 2249,
+        "achievements": 34,
+        "release_date": "22 Jan, 2019"
+    },
+    "910630": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 2,
+        "metacritic": 78,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 366,
+        "achievements": 21,
+        "release_date": "12 Feb, 2019"
+    },
+    "951830": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "15 Feb, 2019"
+    },
+    "1073440": {
+        "required_age": NaN,
+        "is_free": NaN,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": NaN,
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": NaN
+    },
+    "1094530": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 431,
+        "achievements": 34,
+        "release_date": "15 Nov, 2019"
+    },
+    "951000": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1383,
+        "achievements": NaN,
+        "release_date": "29 Mar, 2019"
+    },
+    "702050": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 4205,
+        "achievements": NaN,
+        "release_date": "12 Aug, 2019"
+    },
+    "703080": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 17,
+        "metacritic": 81,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 61112,
+        "achievements": 38,
+        "release_date": "5 Nov, 2019"
+    },
+    "971210": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "29 Apr, 2019"
+    },
+    "1101180": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 390,
+        "achievements": 32,
+        "release_date": "27 Sep, 2019"
+    },
+    "1026820": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": 5,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 155,
+        "release_date": "12 Apr, 2019"
+    },
+    "983150": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 296,
+        "achievements": NaN,
+        "release_date": "15 Mar, 2019"
+    },
+    "761600": {
+        "required_age": "18",
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1650,
+        "achievements": 55,
+        "release_date": "15 Jan, 2019"
+    },
+    "1005930": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 13,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 1213,
+        "achievements": 103,
+        "release_date": "Jan 2019"
+    },
+    "923910": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 436,
+        "achievements": NaN,
+        "release_date": "4 Jun, 2019"
+    },
+    "1187510": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1004,
+        "achievements": 55,
+        "release_date": "27 Nov, 2019"
+    },
+    "948740": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 6516,
+        "achievements": 45,
+        "release_date": "17 Sep, 2019"
+    },
+    "1182370": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 12,
+        "release_date": "15 Nov, 2019"
+    },
+    "1172980": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "5 Nov, 2019"
+    },
+    "939330": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": 4,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 23,
+        "release_date": "9 Jan, 2019"
+    },
+    "631570": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": 77,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 1079,
+        "achievements": 25,
+        "release_date": "17 Apr, 2019"
+    },
+    "1147750": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "20 Sep, 2019"
+    },
+    "1104660": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 3700,
+        "achievements": 26,
+        "release_date": "24 Oct, 2019"
+    },
+    "1106770": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "4 Sep, 2019"
+    },
+    "619150": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 3,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 5807,
+        "achievements": 31,
+        "release_date": "17 Jan, 2019"
+    },
+    "1072420": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": 85,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 5271,
+        "achievements": 31,
+        "release_date": "10 Dec, 2019"
+    },
+    "889510": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 31,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1792,
+        "achievements": 51,
+        "release_date": "22 Jan, 2019"
+    },
+    "751780": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": 78,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 29362,
+        "achievements": 103,
+        "release_date": "18 Apr, 2019"
+    },
+    "976010": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1641,
+        "achievements": 16,
+        "release_date": "7 Mar, 2019"
+    },
+    "969700": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 385,
+        "achievements": 19,
+        "release_date": "24 Jan, 2019"
+    },
+    "1042550": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 7113,
+        "achievements": 103,
+        "release_date": "17 Oct, 2019"
+    },
+    "784150": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 2,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 13343,
+        "achievements": NaN,
+        "release_date": "15 Mar, 2019"
+    },
+    "839870": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 353,
+        "achievements": 32,
+        "release_date": "29 Aug, 2019"
+    },
+    "1012560": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 1961,
+        "achievements": 17,
+        "release_date": "10 May, 2019"
+    },
+    "1043500": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 400,
+        "achievements": NaN,
+        "release_date": "25 Mar, 2019"
+    },
+    "657240": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 3,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 939,
+        "achievements": 15,
+        "release_date": "14 Nov, 2019"
+    },
+    "1070580": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 2,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 4920,
+        "achievements": 41,
+        "release_date": "19 Nov, 2019"
+    },
+    "1065100": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 421,
+        "achievements": 22,
+        "release_date": "17 Jun, 2019"
+    },
+    "1034940": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 361,
+        "achievements": 14,
+        "release_date": "18 Jul, 2019"
+    },
+    "1144110": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": "full",
+        "dlc": 2,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 20,
+        "release_date": "19 Nov, 2019"
+    },
+    "865570": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "25 Jun, 2019"
+    },
+    "1132190": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": 6,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 80,
+        "release_date": "16 Aug, 2019"
+    },
+    "665370": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1480,
+        "achievements": NaN,
+        "release_date": "1 Mar, 2019"
+    },
+    "559330": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 2,
+        "metacritic": 78,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 855,
+        "achievements": 29,
+        "release_date": "22 Jan, 2019"
+    },
+    "935880": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 5,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 2405,
+        "achievements": 40,
+        "release_date": "27 Feb, 2019"
+    },
+    "589500": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 671,
+        "achievements": 45,
+        "release_date": "10 Dec, 2019"
+    },
+    "774361": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 4,
+        "metacritic": 77,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 28519,
+        "achievements": 45,
+        "release_date": "10 Sep, 2019"
+    },
+    "1084020": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 1777,
+        "achievements": 35,
+        "release_date": "5 Jun, 2019"
+    },
+    "1173940": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 166,
+        "achievements": 8,
+        "release_date": "13 Dec, 2019"
+    },
+    "1002290": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "17 Feb, 2019"
+    },
+    "1151080": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": NaN,
+        "achievements": 5,
+        "release_date": "10 Oct, 2019"
+    },
+    "1039940": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 273,
+        "achievements": 23,
+        "release_date": "26 Sep, 2019"
+    },
+    "1055430": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 1892,
+        "achievements": 74,
+        "release_date": "18 Apr, 2019"
+    },
+    "1068070": {
+        "required_age": "18",
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 24,
+        "release_date": "17 May, 2019"
+    },
+    "422510": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 726,
+        "achievements": 29,
+        "release_date": "13 Dec, 2019"
+    },
+    "1043180": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 15,
+        "release_date": "1 Apr, 2019"
+    },
+    "925460": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 2,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 211,
+        "achievements": 20,
+        "release_date": "28 May, 2019"
+    },
+    "931690": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": NaN,
+        "achievements": 11,
+        "release_date": "26 Apr, 2019"
+    },
+    "1161770": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "18 Oct, 2019"
+    },
+    "1034900": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 2,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 771,
+        "achievements": 15,
+        "release_date": "14 Jun, 2019"
+    },
+    "1076880": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 304,
+        "achievements": 65,
+        "release_date": "17 Nov, 2019"
+    },
+    "1055760": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 22,
+        "release_date": "9 May, 2019"
+    },
+    "1170640": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": NaN,
+        "release_date": "4 Nov, 2019"
+    },
+    "986280": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 2,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 173,
+        "achievements": 2,
+        "release_date": "29 Mar, 2019"
+    },
+    "1010870": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 2,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 525,
+        "achievements": 9,
+        "release_date": "28 Feb, 2019"
+    },
+    "977230": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 521,
+        "achievements": 11,
+        "release_date": "4 Nov, 2019"
+    },
+    "1148510": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 3131,
+        "achievements": 100,
+        "release_date": "13 Dec, 2019"
+    },
+    "1079450": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 128,
+        "achievements": 41,
+        "release_date": "17 Jul, 2019"
+    },
+    "1172380": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": NaN,
+        "metacritic": 81,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 113162,
+        "achievements": 39,
+        "release_date": "14 Nov, 2019"
+    },
+    "714120": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 2,
+        "metacritic": 57,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 7033,
+        "achievements": 35,
+        "release_date": "18 Sep, 2019"
+    },
+    "1114030": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 7,
+        "release_date": "1 Nov, 2019"
+    },
+    "562860": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 3,
+        "metacritic": 79,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": true
+        },
+        "recommendations": 6029,
+        "achievements": 62,
+        "release_date": "15 Aug, 2019"
+    },
+    "931270": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": true
+        },
+        "recommendations": 399,
+        "achievements": 7,
+        "release_date": "30 Aug, 2019"
+    },
+    "742520": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": 1,
+        "metacritic": 74,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 363,
+        "achievements": 25,
+        "release_date": "9 May, 2019"
+    },
+    "915460": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 1816,
+        "achievements": 33,
+        "release_date": "12 Apr, 2019"
+    },
+    "1032520": {
+        "required_age": 0,
+        "is_free": true,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": NaN,
+        "achievements": 14,
+        "release_date": "6 Apr, 2019"
+    },
+    "690640": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 4,
+        "metacritic": 81,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 9368,
+        "achievements": 39,
+        "release_date": "8 Oct, 2019"
+    },
+    "898580": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": NaN,
+        "dlc": NaN,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": false,
+            "linux": false
+        },
+        "recommendations": 353,
+        "achievements": 99,
+        "release_date": "18 Oct, 2019"
+    },
+    "829660": {
+        "required_age": 0,
+        "is_free": false,
+        "controller_support": "full",
+        "dlc": 1,
+        "metacritic": NaN,
+        "platforms": {
+            "windows": true,
+            "mac": true,
+            "linux": false
+        },
+        "recommendations": 1153,
+        "achievements": 67,
+        "release_date": "21 Aug, 2019"
+    }
+}
