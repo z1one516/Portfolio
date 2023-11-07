@@ -32,7 +32,7 @@ https://store.steampowered.com/app/{appid} https://store.steampowered.com/api/ap
 STEAM spy
 https://steamspy.com/api.php?request=appdetails&appid={appid} \
 STEAM chart
-https://steamcharts.com/app/{appid} \
+https://steamcharts.com/app/{appid} 
 
 ## Results :
 By hyper parameter tuning and voting top five models from PyCaret(LGBM, Gradient Boosting Classifier, Random Forest Classifier, Extra Trees Classifier, AdaBoost Classifier), the final model had Accuracy, Precision, Recall and F1-score by 3%p higher than the lowest score of evaluation.
