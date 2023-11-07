@@ -1,5 +1,6 @@
 # GAME REPORT
 
-![슬라이드29](https://github.com/trevormoon/ASAC_ml_project/assets/126679650/23cfe5b5-d6e5-432f-ba9f-ee260d65d12e)
+![image](https://github.com/z1one516/Portfolio/assets/126679650/a8476d3f-989c-40e6-b016-0b38959701de)
+
 
 
