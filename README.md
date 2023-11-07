@@ -27,7 +27,7 @@ Going through the pre step of data analysis, I found that data analysis needs to
 * About :\
 As the market size global gaming industry has rapidly grown to $196 billion dollars in 2022, experiencing a remarkable 41.29% increase over the past five years, the importance of predicting the success of a new publishing game has become increasingly evident in a highly competitive and dynamic gaming industry. Based on the game data collected from a number one game distribution platform STEAM, user reviews can be classified and used to provide valuable insights for making informed decisions in marketing, game updates, and more. 
 
-* Data :\
+* Data : 
 1. STEAMDB \
 https://steamdb.info/stats/gameratings/{year}
 2. STEAM store \
